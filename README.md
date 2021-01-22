@@ -1,2 +1,2 @@
-# main
-Everything about All Cups. News, updates and etc. 
+# All Cups
+All Cups — это международная онлайн-площадка, объединяющая IT специалистов со всего мира.
