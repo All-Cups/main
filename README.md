@@ -8,4 +8,4 @@
 * Призы и доставка — prizes@cups.mail.ru
 * Партнерские программы — partners@cups.mail.ru
 
-Платформа создана компанией [Mail.ru Group](https://corp.mail.ru)
+by [Mail.ru Group](https://corp.mail.ru)
